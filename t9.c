@@ -1,5 +1,4 @@
 // Thomas McDowell
-// CS:2630 Fall 2020
 //
 // t9.c is program that takes an input txt file and builds a trie using
 // words in the txt file. It then creates an interactive prompt that a
