@@ -4,8 +4,15 @@ To run the code, download and move the files to a directory. The make file can b
 
 ex. 323 == 'dad' and 323 == 'fad'
 
-Compile: make t9 <br>
-Execute: ./t9 dictionary.txt
+Compile: 
+```
+$ make t9
+```
+
+Execute:
+```
+$ ./t9 dictionary.txt
+```
 
 ## Authors
 
