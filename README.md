@@ -2,5 +2,5 @@ T9 is a C program that reads in a dictionary in txt format and then creates an i
 
 To run the code, download and move the files to a directory. The make file can be used to compile the code and clean the directory. The only argument needed to run the code is the .txt dictionary file, which must be formatted with one word per line.
 
-Compile: make t9
+Compile: make t9 \n
 Execute: ./t9 dictionary.txt
