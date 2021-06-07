@@ -4,3 +4,7 @@ To run the code, download and move the files to a directory. The make file can b
 
 Compile: make t9 <br>
 Execute: ./t9 dictionary.txt
+
+## Authors
+
+* **Tom McDowell**
